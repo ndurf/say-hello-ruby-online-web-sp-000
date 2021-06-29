@@ -4,5 +4,4 @@ def greeting(name = "Ruby programmer")
   puts "Hello, #{Nick}"
 end
 
-greeting
   
